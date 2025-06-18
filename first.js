@@ -4,3 +4,6 @@ let d=0;
 let r=0;
 let hem=0;
 let ris=0;
+let p=0;
+let a=0;
+let b=0;
