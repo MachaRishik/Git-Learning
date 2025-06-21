@@ -7,3 +7,7 @@ let ris=0;
 let p=0;
 let a=0;
 let b=0;
+while(true)
+{
+    console.log("Hi");
+}
